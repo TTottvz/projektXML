@@ -1,0 +1,475 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="popisPobjednika.xsl"?>
+<Predstavnici>
+  <Pobjednik>
+    <GodinaIzvodjenja>1956.</GodinaIzvodjenja>
+    <Drzava>Švicarska</Drzava>
+    <NazivIzvodjaca>Lys Assia</NazivIzvodjaca>
+    <NazivPjesme>Refrain</NazivPjesme>
+  </Pobjednik>
+
+  <Pobjednik>
+    <GodinaIzvodjenja>1957.</GodinaIzvodjenja>
+    <Drzava>Nizozemska</Drzava>
+    <NazivIzvodjaca>Corry Brokken</NazivIzvodjaca>
+    <NazivPjesme>Net als toen</NazivPjesme>
+  </Pobjednik>
+
+  <Pobjednik>
+    <GodinaIzvodjenja>1958.</GodinaIzvodjenja>
+    <Drzava>Francuska</Drzava>
+    <NazivIzvodjaca>Andre Claveau</NazivIzvodjaca>
+    <NazivPjesme>Dors, mon amour</NazivPjesme>
+  </Pobjednik>
+
+  <Pobjednik>
+    <GodinaIzvodjenja>1959.</GodinaIzvodjenja>
+    <Drzava>Nizozemska</Drzava>
+    <NazivIzvodjaca>Teddy Scholten</NazivIzvodjaca>
+    <NazivPjesme>Een beetje</NazivPjesme>
+  </Pobjednik>
+
+  <Pobjednik>
+    <GodinaIzvodjenja>1960.</GodinaIzvodjenja>
+    <Drzava>Francuska</Drzava>
+    <NazivIzvodjaca>Jacqueline Boyer</NazivIzvodjaca>
+    <NazivPjesme>Tom Pillibi</NazivPjesme>
+  </Pobjednik>
+
+  <Pobjednik>
+    <GodinaIzvodjenja>1961.</GodinaIzvodjenja>
+    <Drzava>Luksemburg</Drzava>
+    <NazivIzvodjaca>Jean-Claude Pascal</NazivIzvodjaca>
+    <NazivPjesme>Nous les amoreux</NazivPjesme>
+  </Pobjednik>
+
+  <Pobjednik>
+    <GodinaIzvodjenja>1962.</GodinaIzvodjenja>
+    <Drzava>Francuska</Drzava>
+    <NazivIzvodjaca>Isabelle Aubret</NazivIzvodjaca>
+    <NazivPjesme>Un premier amour</NazivPjesme>
+  </Pobjednik>
+
+  <Pobjednik>
+    <GodinaIzvodjenja>1963.</GodinaIzvodjenja>
+    <Drzava>Danska</Drzava>
+    <NazivIzvodjaca>Grethe i Jørgen Ingmann</NazivIzvodjaca>
+    <NazivPjesme>Dansevise</NazivPjesme>
+  </Pobjednik>
+
+  <Pobjednik>
+    <GodinaIzvodjenja>1964.</GodinaIzvodjenja>
+    <Drzava>Italija</Drzava>
+    <NazivIzvodjaca>Gigliola Cinquetti</NazivIzvodjaca>
+    <NazivPjesme>Non ho l'eta</NazivPjesme>
+  </Pobjednik>
+
+  <Pobjednik>
+    <GodinaIzvodjenja>1965.</GodinaIzvodjenja>
+    <Drzava>Luksemburg</Drzava>
+    <NazivIzvodjaca>France Gall</NazivIzvodjaca>
+    <NazivPjesme>Poupee de cire, poupee de son</NazivPjesme>
+  </Pobjednik>
+
+  <Pobjednik>
+    <GodinaIzvodjenja>1966.</GodinaIzvodjenja>
+    <Drzava>Austrija</Drzava>
+    <NazivIzvodjaca>Udo Jürgens</NazivIzvodjaca>
+    <NazivPjesme>Merci, Cherie</NazivPjesme>
+  </Pobjednik>
+
+  <Pobjednik>
+    <GodinaIzvodjenja>1967.</GodinaIzvodjenja>
+    <Drzava>Ujedinjeno Kraljevstvo</Drzava>
+    <NazivIzvodjaca>Sandie Shaw</NazivIzvodjaca>
+    <NazivPjesme>Puppet on a String</NazivPjesme>
+  </Pobjednik>
+
+
+  <Pobjednik>
+    <GodinaIzvodjenja>1968.</GodinaIzvodjenja>
+    <Drzava>Španjolska</Drzava>
+    <NazivIzvodjaca>Massiel</NazivIzvodjaca>
+    <NazivPjesme>La, la, la</NazivPjesme>
+  </Pobjednik>
+
+  <Pobjednik>
+    <GodinaIzvodjenja>1969.</GodinaIzvodjenja>
+    <Drzava>Španjolska</Drzava>
+    <NazivIzvodjaca>Salome</NazivIzvodjaca>
+    <NazivPjesme>Vivo cantando</NazivPjesme>
+  </Pobjednik>
+
+  <Pobjednik>
+    <GodinaIzvodjenja>1970.</GodinaIzvodjenja>
+    <Drzava>Irska</Drzava>
+    <NazivIzvodjaca>Dana</NazivIzvodjaca>
+    <NazivPjesme>All kinds of everything</NazivPjesme>
+  </Pobjednik>
+
+  <Pobjednik>
+    <GodinaIzvodjenja>1971.</GodinaIzvodjenja>
+    <Drzava>Monako</Drzava>
+    <NazivIzvodjaca>Severine</NazivIzvodjaca>
+    <NazivPjesme>Un banc, un arbre, une rue</NazivPjesme>
+  </Pobjednik>
+
+  <Pobjednik>
+    <GodinaIzvodjenja>1972.</GodinaIzvodjenja>
+    <Drzava>Luksemburg</Drzava>
+    <NazivIzvodjaca>Vicky Leandros</NazivIzvodjaca>
+    <NazivPjesme>Apres toi</NazivPjesme>
+  </Pobjednik>
+
+  <Pobjednik>
+    <GodinaIzvodjenja>1973.</GodinaIzvodjenja>
+    <Drzava>Luksemburg</Drzava>
+    <NazivIzvodjaca>Anne-Marie David</NazivIzvodjaca>
+    <NazivPjesme>Tu te reconnaitras</NazivPjesme>
+  </Pobjednik>
+
+  <Pobjednik>
+    <GodinaIzvodjenja>1974.</GodinaIzvodjenja>
+    <Drzava>Švedska</Drzava>
+    <NazivIzvodjaca>ABBA</NazivIzvodjaca>
+    <NazivPjesme>Waterloo</NazivPjesme>
+  </Pobjednik>
+
+  <Pobjednik>
+    <GodinaIzvodjenja>1975.</GodinaIzvodjenja>
+    <Drzava>Nizozemska</Drzava>
+    <NazivIzvodjaca>Teach-In</NazivIzvodjaca>
+    <NazivPjesme>Ding-A-Dong</NazivPjesme>
+  </Pobjednik>
+
+  <Pobjednik>
+    <GodinaIzvodjenja>1976.</GodinaIzvodjenja>
+    <Drzava>Ujedinjeno Kraljevstvo</Drzava>
+    <NazivIzvodjaca>Brotherhood of Man</NazivIzvodjaca>
+    <NazivPjesme>Save your kisses for me</NazivPjesme>
+  </Pobjednik>
+
+  <Pobjednik>
+    <GodinaIzvodjenja>1977.</GodinaIzvodjenja>
+    <Drzava>Francuska</Drzava>
+    <NazivIzvodjaca>Marie Myriam</NazivIzvodjaca>
+    <NazivPjesme>L'oiseau et l'infant</NazivPjesme>
+  </Pobjednik>
+
+  <Pobjednik>
+    <GodinaIzvodjenja>1978.</GodinaIzvodjenja>
+    <Drzava>Izrael</Drzava>
+    <NazivIzvodjaca>Izhar Cohen and the Alphabeta</NazivIzvodjaca>
+    <NazivPjesme>A-Ba-Ni-Bi</NazivPjesme>
+  </Pobjednik>
+
+  <Pobjednik>
+    <GodinaIzvodjenja>1979.</GodinaIzvodjenja>
+    <Drzava>Izrael</Drzava>
+    <NazivIzvodjaca>Milk and Honey</NazivIzvodjaca>
+    <NazivPjesme>Hallelujah</NazivPjesme>
+  </Pobjednik>
+
+  <Pobjednik>
+    <GodinaIzvodjenja>1980.</GodinaIzvodjenja>
+    <Drzava>Irska</Drzava>
+    <NazivIzvodjaca>Johhny Logan</NazivIzvodjaca>
+    <NazivPjesme>What's another year</NazivPjesme>
+  </Pobjednik>
+
+  <Pobjednik>
+    <GodinaIzvodjenja>1981.</GodinaIzvodjenja>
+    <Drzava>Ujedinjeno Kraljevstvo</Drzava>
+    <NazivIzvodjaca>Bucks Fizz</NazivIzvodjaca>
+    <NazivPjesme>Making Your Mind Up</NazivPjesme>
+  </Pobjednik>
+
+  <Pobjednik>
+    <GodinaIzvodjenja>1982.</GodinaIzvodjenja>
+    <Drzava>Njemačka</Drzava>
+    <NazivIzvodjaca>Nicole</NazivIzvodjaca>
+    <NazivPjesme>Ein bißchen Frieden</NazivPjesme>
+  </Pobjednik>
+
+  <Pobjednik>
+    <GodinaIzvodjenja>1983.</GodinaIzvodjenja>
+    <Drzava>Luksemburg</Drzava>
+    <NazivIzvodjaca>Corrine Hermes</NazivIzvodjaca>
+    <NazivPjesme>Si la vie est cadeau</NazivPjesme>
+  </Pobjednik>
+
+  <Pobjednik>
+    <GodinaIzvodjenja>1984.</GodinaIzvodjenja>
+    <Drzava>Švedska</Drzava>
+    <NazivIzvodjaca>Herreys</NazivIzvodjaca>
+    <NazivPjesme>Diggi-Loo Diggi-Ley</NazivPjesme>
+  </Pobjednik>
+
+  <Pobjednik>
+    <GodinaIzvodjenja>1985.</GodinaIzvodjenja>
+    <Drzava>Norveška</Drzava>
+    <NazivIzvodjaca>Bobbysocks!</NazivIzvodjaca>
+    <NazivPjesme>La det swinge</NazivPjesme>
+  </Pobjednik>
+
+  <Pobjednik>
+    <GodinaIzvodjenja>1986.</GodinaIzvodjenja>
+    <Drzava>Belgija</Drzava>
+    <NazivIzvodjaca>Sandra Kim</NazivIzvodjaca>
+    <NazivPjesme>J'aime la vie</NazivPjesme>
+  </Pobjednik>
+
+  <Pobjednik>
+    <GodinaIzvodjenja>1987.</GodinaIzvodjenja>
+    <Drzava>Irska</Drzava>
+    <NazivIzvodjaca>Johnny Logan</NazivIzvodjaca>
+    <NazivPjesme>Hold me now</NazivPjesme>
+  </Pobjednik>
+
+  <Pobjednik>
+    <GodinaIzvodjenja>1988.</GodinaIzvodjenja>
+    <Drzava>Švicarska</Drzava>
+    <NazivIzvodjaca>Celine Dion</NazivIzvodjaca>
+    <NazivPjesme>Ne partez pas sans moi</NazivPjesme>
+  </Pobjednik>
+
+  <Pobjednik>
+    <GodinaIzvodjenja>1989.</GodinaIzvodjenja>
+    <Drzava>Jugoslavija</Drzava>
+    <NazivIzvodjaca>Riva</NazivIzvodjaca>
+    <NazivPjesme>Rock me baby</NazivPjesme>
+  </Pobjednik>
+
+  <Pobjednik>
+    <GodinaIzvodjenja>1990.</GodinaIzvodjenja>
+    <Drzava>Italija</Drzava>
+    <NazivIzvodjaca>Toto Cutugno</NazivIzvodjaca>
+    <NazivPjesme>Insieme:1992</NazivPjesme>
+  </Pobjednik>
+
+  <Pobjednik>
+    <GodinaIzvodjenja>1991.</GodinaIzvodjenja>
+    <Drzava>Švedska</Drzava>
+    <NazivIzvodjaca>Carola</NazivIzvodjaca>
+    <NazivPjesme>Fangad av en stormvind</NazivPjesme>
+  </Pobjednik>
+
+  <Pobjednik>
+    <GodinaIzvodjenja>1992.</GodinaIzvodjenja>
+    <Drzava>Irska</Drzava>
+    <NazivIzvodjaca>Linda Martin</NazivIzvodjaca>
+    <NazivPjesme>Why me?</NazivPjesme>
+  </Pobjednik>
+
+  <Pobjednik>
+    <GodinaIzvodjenja>1993.</GodinaIzvodjenja>
+    <Drzava>Irska</Drzava>
+    <NazivIzvodjaca>Niamh Kavanagh</NazivIzvodjaca>
+    <NazivPjesme>In your eyes</NazivPjesme>
+  </Pobjednik>
+
+  <Pobjednik>
+    <GodinaIzvodjenja>1994.</GodinaIzvodjenja>
+    <Drzava>Irska</Drzava>
+    <NazivIzvodjaca>Paul Harrington and Charlie McGettigan</NazivIzvodjaca>
+    <NazivPjesme>Rock'n'Roll kids</NazivPjesme>
+  </Pobjednik>
+
+  <Pobjednik>
+    <GodinaIzvodjenja>1995.</GodinaIzvodjenja>
+    <Drzava>Norveška</Drzava>
+    <NazivIzvodjaca>Secret garden</NazivIzvodjaca>
+    <NazivPjesme>Nocturne</NazivPjesme>
+  </Pobjednik>
+
+  <Pobjednik>
+    <GodinaIzvodjenja>1996.</GodinaIzvodjenja>
+    <Drzava>Irska</Drzava>
+    <NazivIzvodjaca>Eimear Quinn</NazivIzvodjaca>
+    <NazivPjesme>The voice</NazivPjesme>
+  </Pobjednik>
+
+  <Pobjednik>
+    <GodinaIzvodjenja>1997.</GodinaIzvodjenja>
+    <Drzava>Ujedinjeno Kraljevstvo</Drzava>
+    <NazivIzvodjaca>Katrina and the Waves</NazivIzvodjaca>
+    <NazivPjesme>Love Shine a Light</NazivPjesme>
+  </Pobjednik>
+
+  <Pobjednik>
+    <GodinaIzvodjenja>1998.</GodinaIzvodjenja>
+    <Drzava>Izrael</Drzava>
+    <NazivIzvodjaca>Dana International</NazivIzvodjaca>
+    <NazivPjesme>Diva</NazivPjesme>
+  </Pobjednik>
+
+  <Pobjednik>
+    <GodinaIzvodjenja>1999.</GodinaIzvodjenja>
+    <Drzava>Švedska</Drzava>
+    <NazivIzvodjaca>Charlotte Nilsson</NazivIzvodjaca>
+    <NazivPjesme>Take me to your heaven</NazivPjesme>
+  </Pobjednik>
+
+  <Pobjednik>
+    <GodinaIzvodjenja>2000.</GodinaIzvodjenja>
+    <Drzava>Danska</Drzava>
+    <NazivIzvodjaca>Olsen brothers</NazivIzvodjaca>
+    <NazivPjesme>Fly on the wings of love</NazivPjesme>
+  </Pobjednik>
+
+  <Pobjednik>
+    <GodinaIzvodjenja>2001.</GodinaIzvodjenja>
+    <Drzava>Estonija</Drzava>
+    <NazivIzvodjaca>Tanel Padar, Dave Benton and 2XL</NazivIzvodjaca>
+    <NazivPjesme>Everybody</NazivPjesme>
+  </Pobjednik>
+
+  <Pobjednik>
+    <GodinaIzvodjenja>2002.</GodinaIzvodjenja>
+    <Drzava>Latvija</Drzava>
+    <NazivIzvodjaca>Marie N</NazivIzvodjaca>
+    <NazivPjesme>I wanna</NazivPjesme>
+  </Pobjednik>
+
+  <Pobjednik>
+    <GodinaIzvodjenja>2003.</GodinaIzvodjenja>
+    <Drzava>Turska</Drzava>
+    <NazivIzvodjaca>Sertab Erener</NazivIzvodjaca>
+    <NazivPjesme>Everyway that i can</NazivPjesme>
+  </Pobjednik>
+
+  <Pobjednik>
+    <GodinaIzvodjenja>2004.</GodinaIzvodjenja>
+    <Drzava>Ukrajina</Drzava>
+    <NazivIzvodjaca>Ruslana</NazivIzvodjaca>
+    <NazivPjesme>Wild dance</NazivPjesme>
+  </Pobjednik>
+
+  <Pobjednik>
+    <GodinaIzvodjenja>2005.</GodinaIzvodjenja>
+    <Drzava>Grčka</Drzava>
+    <NazivIzvodjaca>Helena Paparizou</NazivIzvodjaca>
+    <NazivPjesme>My number one</NazivPjesme>
+  </Pobjednik>
+
+  <Pobjednik>
+    <GodinaIzvodjenja>2006.</GodinaIzvodjenja>
+    <Drzava>Finska</Drzava>
+    <NazivIzvodjaca>Lordi</NazivIzvodjaca>
+    <NazivPjesme>Hard rock hallelujah</NazivPjesme>
+  </Pobjednik>
+
+  <Pobjednik>
+    <GodinaIzvodjenja>2007.</GodinaIzvodjenja>
+    <Drzava>Srbija</Drzava>
+    <NazivIzvodjaca>Marija Šerifović</NazivIzvodjaca>
+    <NazivPjesme>Molitva</NazivPjesme>
+  </Pobjednik>
+
+  <Pobjednik>
+    <GodinaIzvodjenja>2008.</GodinaIzvodjenja>
+    <Drzava>Rusija</Drzava>
+    <NazivIzvodjaca>Dima Bilan</NazivIzvodjaca>
+    <NazivPjesme>Believe</NazivPjesme>
+  </Pobjednik>
+
+  <Pobjednik>
+    <GodinaIzvodjenja>2009.</GodinaIzvodjenja>
+    <Drzava>Norveška</Drzava>
+    <NazivIzvodjaca>Alexander Rybak</NazivIzvodjaca>
+    <NazivPjesme>Fairytale</NazivPjesme>
+  </Pobjednik>
+
+  <Pobjednik>
+    <GodinaIzvodjenja>2010.</GodinaIzvodjenja>
+    <Drzava>Njemačka</Drzava>
+    <NazivIzvodjaca>Lena</NazivIzvodjaca>
+    <NazivPjesme>Satellite</NazivPjesme>
+  </Pobjednik>
+
+  <Pobjednik>
+    <GodinaIzvodjenja>2011.</GodinaIzvodjenja>
+    <Drzava>Azerbajdžan</Drzava>
+    <NazivIzvodjaca>Ell and Nikki</NazivIzvodjaca>
+    <NazivPjesme>Running scared</NazivPjesme>
+  </Pobjednik>
+
+  <Pobjednik>
+    <GodinaIzvodjenja>2012.</GodinaIzvodjenja>
+    <Drzava>Švedska</Drzava>
+    <NazivIzvodjaca>Loreen</NazivIzvodjaca>
+    <NazivPjesme>Euphoria</NazivPjesme>
+  </Pobjednik>
+
+  <Pobjednik>
+    <GodinaIzvodjenja>2013.</GodinaIzvodjenja>
+    <Drzava>Danska</Drzava>
+    <NazivIzvodjaca>Emmelie de Forest</NazivIzvodjaca>
+    <NazivPjesme>Only teardrops</NazivPjesme>
+  </Pobjednik>
+
+  <Pobjednik>
+    <GodinaIzvodjenja>2014.</GodinaIzvodjenja>
+    <Drzava>Austrija</Drzava>
+    <NazivIzvodjaca>Conchita Wurst</NazivIzvodjaca>
+    <NazivPjesme>Rise like a phoenix</NazivPjesme>
+  </Pobjednik>
+
+  <Pobjednik>
+    <GodinaIzvodjenja>2015.</GodinaIzvodjenja>
+    <Drzava>Švedska</Drzava>
+    <NazivIzvodjaca>Mans Zelmerlow</NazivIzvodjaca>
+    <NazivPjesme>Heroes</NazivPjesme>
+  </Pobjednik>
+
+  <Pobjednik>
+    <GodinaIzvodjenja>2016.</GodinaIzvodjenja>
+    <Drzava>Ukrajina</Drzava>
+    <NazivIzvodjaca>Jamala</NazivIzvodjaca>
+    <NazivPjesme>1944</NazivPjesme>
+  </Pobjednik>
+
+  <Pobjednik>
+    <GodinaIzvodjenja>2017.</GodinaIzvodjenja>
+    <Drzava>Portugal</Drzava>
+    <NazivIzvodjaca>Salvador Sobral</NazivIzvodjaca>
+    <NazivPjesme>Amar pelos dois</NazivPjesme>
+  </Pobjednik>
+
+  <Pobjednik>
+    <GodinaIzvodjenja>2018.</GodinaIzvodjenja>
+    <Drzava>Izrael</Drzava>
+    <NazivIzvodjaca>Netta</NazivIzvodjaca>
+    <NazivPjesme>Toy</NazivPjesme>
+  </Pobjednik>
+
+  <Pobjednik>
+    <GodinaIzvodjenja>2019.</GodinaIzvodjenja>
+    <Drzava>Nizozemska</Drzava>
+    <NazivIzvodjaca>Duncan Laurence</NazivIzvodjaca>
+    <NazivPjesme>Arcade</NazivPjesme>
+  </Pobjednik>
+
+  <Pobjednik>
+    <GodinaIzvodjenja>2020.</GodinaIzvodjenja>
+    <Drzava>-</Drzava>
+    <NazivIzvodjaca>-</NazivIzvodjaca>
+    <NazivPjesme>-</NazivPjesme>
+  </Pobjednik>
+
+  <Pobjednik>
+    <GodinaIzvodjenja>2021.</GodinaIzvodjenja>
+    <Drzava>Italija</Drzava>
+    <NazivIzvodjaca>Maneskin</NazivIzvodjaca>
+    <NazivPjesme>Zitti e buoni</NazivPjesme>
+  </Pobjednik>
+
+  <Pobjednik>
+    <GodinaIzvodjenja>2022.</GodinaIzvodjenja>
+    <Drzava>Ukrajina</Drzava>
+    <NazivIzvodjaca>Kalush orchestra</NazivIzvodjaca>
+    <NazivPjesme>Stefania</NazivPjesme>
+  </Pobjednik>
+
+
+</Predstavnici>
